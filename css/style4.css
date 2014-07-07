@@ -149,7 +149,7 @@
 .content div h3{
 	color: #398080;
 }
-.content div p {
+.content div p{
 	font-size: 14px;
 	line-height: 22px;
 /*	font-style: italic;*/
@@ -159,4 +159,14 @@
 	padding-left: 15px;
 	font-family: Cambria, Georgia, serif;
 	border-left: 8px solid rgba(63,148,148, 0.1);
+}
+.content li{
+	font-size: 14px;
+	line-height: 22px;
+/*	font-style: italic;*/
+	text-align: left;
+	margin: 0;
+	color: #777;
+	padding-left: 15px;
+	font-family: Cambria, Georgia, serif;
 }
