@@ -908,6 +908,11 @@
 			border-radius: 50%;
 			overflow: hidden;
 		}
+		
+        #top .me2
+		{
+			overflow: hidden;
+		}
 
 		#top p
 		{
