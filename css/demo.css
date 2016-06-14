@@ -16,8 +16,9 @@ a{
 	text-decoration: none;
 }
 .container{
-	width: 100%;
 	position: relative;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .clr{
 	clear: both;
